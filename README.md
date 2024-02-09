@@ -4,14 +4,14 @@ This dataset contains measurements of penguins in the Palmer Archipelago, Antarc
 
 ## Data Columns
 
-species: The species of penguin (Adelie, Chinstrap, or Gentoo)
-island: The island where the penguin was measured (Dream, Biscoe, or Torgersen)
-bill_length_mm: The length of the penguin's bill in millimeters
-bill_depth_mm: The depth of the penguin's bill in millimeters
-flipper_length_mm: The length of the penguin's flipper in millimeters
-body_mass_g: The body mass of the penguin in grams
-sex: The sex of the penguin (male or female)
-year: The year in which the penguin was measured
+- species: The species of penguin (Adelie, Chinstrap, or Gentoo) <br />
+- island: The island where the penguin was measured (Dream, Biscoe, or Torgersen) <br />
+- bill_length_mm: The length of the penguin's bill in millimeters <br />
+- bill_depth_mm: The depth of the penguin's bill in millimeters <br />
+- flipper_length_mm: The length of the penguin's flipper in millimeters <br />
+- body_mass_g: The body mass of the penguin in grams <br />
+- sex: The sex of the penguin (male or female) <br />
+- year: The year in which the penguin was measured <br />
 
 ## Meet the penguins
 The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
