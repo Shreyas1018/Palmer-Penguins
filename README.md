@@ -17,7 +17,7 @@ This dataset contains measurements of penguins in the Palmer Archipelago, Antarc
 The palmerpenguins data contains size measurements for three penguin species observed on three islands in the Palmer Archipelago, Antarctica.
 
 ![Penguins](https://github.com/Shreyas1018/Palmer-Penguins/blob/main/penguins_species.png)
-*The Palmer Archipelago penguins. Artwork by @allison_horst.*
+*The Palmer Archipelago penguins. Artwork by @allison_horst.* <br />
 These data were collected from 2007 - 2009 by Dr. Kristen Gorman with the Palmer Station Long Term Ecological Research Program, part of the US Long Term Ecological Research Network. The data were imported directly from the Environmental Data Initiative (EDI) Data Portal, and are available for use by CC0 license (“No Rights Reserved”) in accordance with the Palmer Station Data Policy.'
 
 ## Use of Dataset
