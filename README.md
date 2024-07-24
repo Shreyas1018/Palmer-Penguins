@@ -1,6 +1,6 @@
 # Palmer-Penguins
 
-This dataset contains measurements of penguins in the Palmer Archipelago, Antarctica. The data were collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER. The dataset includes information on the species, island, bill length, bill depth, flipper length, body mass, sex, and year for 344 penguins.
+This ML model classifies measurements of penguins in the Palmer Archipelago, Antarctica. The data were collected by Dr. Kristen Gorman and the Palmer Station, Antarctica LTER. The dataset includes information on the species, island, bill length, bill depth, flipper length, body mass, sex, and year for 344 penguins.
 
 ## Data Columns
 
